@@ -1,0 +1,235 @@
+/* body,html{
+    height: 100%;
+    margin-top: -80px;
+    background-color: #E4E1DB;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    width: 100%;
+    height: min-content;
+    box-shadow: 10px 10px 30px black;
+
+} */
+body{
+    background-image:url(Bg_portfolio.png);
+    width:100%;
+    height: 720px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax{
+    background-image:url(Bg_portfolio.png);
+    width:100%;
+    height: 720px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about{
+    margin-top: 1020px;
+    /* margin-top: -80px; */
+    background-color: #E4E1DB;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    width: 100%;
+    height: min-content;
+    box-shadow: 2px -2px 8px darkgray;
+}
+.ah2{
+    padding-left: 80px;
+    padding-top: 120px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+}
+.apara{
+    padding-left: 80px;
+    /* padding-top: 120px; */
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+
+}
+.aboutpic{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    /* border-radius: 20px; */
+    margin-top: 120px;
+    margin-left: 80px;
+}
+/* ----------------------------- */
+.menu{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+    margin-left: 400px;
+}
+
+.L2:hover{
+ text-decoration: underline #E4E1DB 3px;
+ 
+
+}
+.head{
+    background-color: black;
+    position: sticky;
+    top: 0;
+    height: 80px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.L{
+    text-decoration: none;
+}
+/* ------------------------------- */
+.services{
+    background-color: black;
+    height: 520px;
+    /* height: min-content; */
+}
+.sh2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+    color: #ffff;
+}
+.seo{
+    margin-left: 30px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    color:black;
+}
+.seop{
+    margin-left: 30px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 15px;
+    color: black;
+}
+.box{
+    background-color: #ffff;
+    height: 150px;
+    width:600px;
+    margin-top: ;
+}
+.box2{
+    background-color: #ffff;
+    height: 150px;
+    width:600px;
+    margin-top: 105px;
+}
+.box3{
+    background-color: #ffff;
+    height: 150px;
+    width:600px;
+    margin-top: 80px;
+}
+.box4{
+    background-color: #ffff;
+    height: 150px;
+    width:600px;
+    margin-top: 80px; 
+}
+.L{
+    text-decoration: none;
+}
+.L :hover{
+    scale:80%;
+}
+.letstalk{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 100px;
+    background-color: #E4E1DB;
+    width: 100%;
+}
+.letstalk1{
+    margin-top: 50px;
+}
+.contactme{
+    background-color: black;
+    height: 720px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    box-shadow: 15px -30px 50px darkgray;
+}
+
+.contact{
+    border: 2px solid #ffff;
+    background-color: black;
+    color: #ffff;
+    width: 450px;
+    height: 100px;
+    border-radius: 50px;
+    margin-top: 250px;
+    margin-left: 80px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+.contact:hover{
+    background-color: #ffff;
+    color: black;
+
+}
+.horizontal{
+    margin-left: 0px;
+    width: 450px;
+    border-bottom: 2px solid #ffff;
+    margin-top: 20px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.fb{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    color: #ffff;
+}
+.fb:hover{
+    color: #ffff;
+    padding-left: 30px;
+}
+.social{
+    margin-top: 150px;
+}
+.footer{
+    /* background-color:#E4E1DB ; */
+    /* background-color:#ffff; */
+    height: 50px;
+    /* box-shadow: 10px 10px 30px black; */
+}
+.foottext{
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 8px;
+    /* margin-top: 10px; */
+    padding-top: 20px;
+    color: #ffff;
+}
+.menu{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+    margin-left: 400px;
+}
+
+.L2:hover{
+ text-decoration: underline #E4E1DB 3px;
+ 
+
+}
+.head{
+    background-color: black;
+    position: sticky;
+    top: 0;
+    height: 80px;
+}
+.logo{
+    scale: 10%;
+}
